@@ -3,4 +3,4 @@
   
   ![Clique aqui para visualizar o site 🌈](https://netflix-micaelle.netlify.app)
   
-  ![]()
+  ![Gif teclando](https://github.com/Micaelleapds/clone-netflix/blob/master/Home-office.gif)
