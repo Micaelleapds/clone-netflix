@@ -3,4 +3,4 @@
   
    [Clique aqui para visualizar o site 🌈](https://netflix-micaelle.netlify.app)
   
-  ![Gif teclando](https://github.com/Micaelleapds/nlw-2/blob/master/cat-typing-2.gif)
+  ![Gif teclando](https://github.com/Micaelleapds/clone-netflix/blob/master/Home-office.gif)
